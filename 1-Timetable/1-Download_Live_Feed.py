@@ -52,11 +52,8 @@ def download_schedule_file(
 
 
 def main() -> None:
-    username = "cblaxlandkay@gmail.com"
-    password = "Hyperion00!!"
-    #username = os.environ.get("NR_USERNAME")
-    #password = os.environ.get("NR_PASSWORD")
-    #["cblaxlandkay@gmail.com", "Hyperion00!!"]
+    username = "<Users Email Address"
+    password = "Users Password"
     if not username or not password:
         raise ValueError(
             "Set NR_USERNAME and NR_PASSWORD as environment variables first."
