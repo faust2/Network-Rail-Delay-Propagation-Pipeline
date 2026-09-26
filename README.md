@@ -40,7 +40,7 @@ optimising recovery interventions and exporting results.
 
 <p align="center">
   <em>
-    The propagation-analysis result, and interactive network showcasing the relationship between those trains most or most analytical interest.
+    The propagation-analysis result, an interactive network showcasing the relationship between those trains most or most analytical interest.
   </em>
 </p>
 
