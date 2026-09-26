@@ -29,6 +29,21 @@ optimising recovery interventions and exporting results.
   </em>
 </p>
 
+
+<p align="center">
+  <img
+    src="docs/images/railconnect-interactive-network.png"
+    alt="RailConnect 2000 propagation-analysis interactive network"
+    width="1000"
+  >
+</p>
+
+<p align="center">
+  <em>
+    The propagation-analysis result, and interactive network showcasing the relationship between those trains most or most analytical interest.
+  </em>
+</p>
+
 ### Application capabilities
 
 | Module | Functionality |
