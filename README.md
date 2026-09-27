@@ -150,7 +150,7 @@ Each candidate is assigned:
 - an assumed intervention effectiveness; and
 - a network-derived priority score.
 
-An exact binary dynamic-programming solver selects the combination of interventions
+Binary optimisation is performed to select the combination of interventions
 with the greatest estimated benefit while respecting the total budget and
 maximum number of permitted actions.
 
