@@ -1,6 +1,16 @@
 # Network-Rail-Delay-Propagation-Pipeline
 End-to-end railway delay propagation and recovery optimisation platform using Network Rail timetable and TRUST movement data. Combines data engineering, network analysis, validation, visualisation and operations research to identify delay sources, infer knock-on effects and optimise recovery interventions.
 
+## Documentation
+
+A comprehensive user manual and technical reference is available:
+
+**[Open the RailConnect 2000 User Manual](docs/RailConnect_2000_User_Manual.pdf)**
+
+The manual covers application setup, data ingestion, train analysis, delay-propagation inference, network visualisation, validation, sensitivity testing, recovery optimisation, report generation, mathematical definitions, and an empirical case study using 402,270 stored movement events.
+
+> **Development status:** RailConnect 2000 is a research and portfolio prototype. Its propagation relationships are heuristic observational inferences, not proofs of operational causation. The manual documents these limitations in detail.
+
 
 ## RailConnect 2000 desktop application
 
